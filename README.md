@@ -1,5 +1,7 @@
 # socialbot
 
+A Discord bot written in Go that fetches information about accounts on various social media platforms.
+
 ![Socialbot in action.](https://i.imgur.com/x9I1cnP.png)
 
 ## Installation
