@@ -149,4 +149,4 @@ func getChannel(id string) (*youtubeChannel, error) {
 		LatestVideoURL: "https://youtube.com/watch?v=" + videoID,
 	}
 	return ytChannel, nil
-} 
+}
