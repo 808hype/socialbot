@@ -25,8 +25,6 @@ Next, run the program. That's it.
 
 `go run main.go`
 
-Don't run the bot on your home computer 24/7, that's just ridiculous. Put it on Heroku if you want to run it 24/7.
-
 At the moment, the only command is `!youtube <channel-id>`, which fetches basic information about the specified YouTube channel.
 
 In the future, I may implement Twitter and Instagram.
